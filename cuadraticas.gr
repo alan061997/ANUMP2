@@ -1,0 +1,37 @@
+[saved-setup]
+charset=UTF-8
+
+[labels]
+xaxis=x
+yaxis=y
+
+[grid]
+left=-8
+right=8
+top=auto
+bottom=auto
+
+[options]
+detail=grid
+axes=1808
+
+[functions]
+
+[equations]
+y=x^2 - 4x +4
+y=x^2 - 3x +1
+y=x^2 - x +1
+y=x^2-3
+
+[eqcolors]
+eq0=10
+eq1=8
+eq2=6
+eq3=3
+next=13
+
+[eqstyles]
+eq0=0
+eq1=0
+eq2=0
+eq3=0
